@@ -6,25 +6,25 @@ item:
 - image: "/images/img1.jpg"
   project_url: "#"
   category: branding
-- image: images/portfolio/item-3.png
+- image: "/images/johnny.jpg"
   project_url: http://examplesite.com
   category: illustration
-- image: images/portfolio/item-5.png
+- image: "/images/johnny.jpg"
   project_url: "#"
   category: design
-- image: images/portfolio/item-8.png
+- image: "/images/johnny.jpg"
   project_url: http://examplesite.com
   category: illustration
-- image: images/portfolio/item-6.png
+- image: "/images/johnny.jpg"
   project_url: "#"
   category: design
-- image: images/portfolio/item-1.png
+- image: "/images/johnny.jpg"
   project_url: http://examplesite.com
   category: branding
-- image: images/portfolio/item-3.png
+- image: "/images/johnny.jpg"
   project_url: "#"
   category: illustration
-- image: images/portfolio/item-7.png
+- image: "/images/johnny.jpg"
   project_url: http://examplesite.com
   category: branding
 clients_logo_slider:

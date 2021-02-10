@@ -32,7 +32,7 @@ phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://getform.io/f/455c0c50-a42a-4ec7-9f07-f91a869c65a4"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
